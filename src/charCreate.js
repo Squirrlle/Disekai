@@ -1,7 +1,7 @@
 var fs = require("fs")
 
 module.exports = {
-
+    handleUser : handleUser
 }
 
 var activeUsers = {
@@ -32,6 +32,9 @@ function handleUser(user,text) {
                 return "bones";
         }
     } else {
-        //user is not active
+        activeUsers[user] = {
+            "stage" : 0
+        }
+        return "Beginning character creation"
     }
 }
