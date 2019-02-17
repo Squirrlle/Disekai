@@ -6,7 +6,7 @@ Current classes are warrior, rogue, and mage
 User is presented with a random resume with stats, abilities, resistances, and weaknesses.
 User may generate a new random one, or switch to point buy
 
-###Good Boy Points: used for character creation, bonuses cost GBP negitive efects give them, point by
+### Good Boy Points: used for character creation, bonuses cost GBP negitive efects give them, point by
 ## Stats
 1. HP: Internal value not told to player, how good the adventurer is currently doing, total of 10
 2. Stronk: how hard you hit
