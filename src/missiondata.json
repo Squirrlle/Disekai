@@ -1,0 +1,43 @@
+{
+    "areas" : [
+        "Swamp",
+        "Mountain",
+        "Plain",
+        "Desert",
+        "Grassland",
+        "Cave",
+        "Tundra",
+        "Cliff",
+        "City"
+    ],
+    "mobs" : [
+        "Wolf",
+        "Bandit",
+        "Bear",
+        "Rat",
+        "Druid",
+        "Goblin"
+    ],
+    "adjs" : [
+        "Deepwater",
+        "Rabid",
+        "Thicc",
+        "Dire",
+        "Were",
+        "Cursed",
+        "Anti-Vax"
+    ],
+    "nouns" : [
+        "Suffering",
+        "Insanity",
+        "Confusion",
+        "Doom",
+        "Eternal Indifference",
+        "an Okay Experience",
+        "Mission Location",
+        "Mild Inconvenience",
+        "Consistent Toe-Stubbing",
+        "Bottom Text",
+        "Nondescript Features"
+    ]
+}
