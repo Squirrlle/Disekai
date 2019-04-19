@@ -9,13 +9,13 @@ client.on('ready', () => {
 });
 
 client.on('message', msg => {
-	if(msg.content === 'Hi') {
-		msg.channel.send("String");
+	if(msg.content === 'Gamer') {
+		msg.channel.send("Lets get this bread");
 	}
-    if(msg.content[0] == '!') {
-        var resp = charCreate.handleUser(msg.author.id,msg.content);
-        msg.channel.send(resp)
-    }
+	if(msg.content[0] == '!') {
+        	var resp = charCreate.handleUser(msg.author.id,msg.content);
+        	msg.channel.send(resp)
+	}
 });
 
 client.login(auth.sauce);

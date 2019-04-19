@@ -48,4 +48,3 @@ function getArea() {
     console.log(mobs)
     return {"area":name,"hazards":hazards,"mobs":mobs,difficulty:difficulty}
 }
-
