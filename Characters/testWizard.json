@@ -1,0 +1,36 @@
+{
+	"name" : "Max Maximus",
+	"class" : "Mage",
+
+	"Stats" : [
+		"HP" : 10,
+		"Stronks" : 7,
+		"Fasts" : 14,
+		"IQs" : 19,
+		"Facebook Friends" : 11
+	],
+
+	"Skillz" : [
+		"Literacy",
+		"Hygiene",
+		"Trading"
+	],
+
+	"Resistances" :[
+
+		"Magic",
+		"Will"
+	],
+
+	"Fears" : [
+
+		"The Red Threat"
+	],
+
+	"Inventory" : [
+		
+	],
+
+	"Shekels" : 10
+
+}
