@@ -1,0 +1,34 @@
+{
+	"name" : "Throgg",
+	"class" : "Warrior",
+
+	"Stats" : [
+		"HP" : 10,
+		"Stronks" : 18,
+		"Fasts" : 12,
+		"IQs" : 6,
+		"Facebook Friends" : 9
+	],
+
+	"Skillz" : [
+		"Climbing",
+		"Looting"
+	],
+
+	"Resistances" :[
+
+		"Physical",
+		"Poison",
+		"Heat",
+		"Cold"
+	],
+
+	"Fears" : [
+		"Scarecrows"
+	],
+
+	"Inventory" : [
+		
+	]
+
+}
