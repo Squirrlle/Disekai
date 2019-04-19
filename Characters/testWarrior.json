@@ -2,13 +2,13 @@
 	"name" : "Throgg",
 	"class" : "Warrior",
 
-	"Stats" : [
+	"Stats" : {
 		"HP" : 10,
 		"Stronks" : 18,
 		"Fasts" : 12,
 		"IQs" : 6,
 		"Facebook Friends" : 9
-	],
+	},
 
 	"Skillz" : [
 		"Climbing",

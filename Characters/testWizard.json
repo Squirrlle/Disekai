@@ -2,13 +2,13 @@
 	"name" : "Max Maximus",
 	"class" : "Mage",
 
-	"Stats" : [
+	"Stats" : {
 		"HP" : 10,
 		"Stronks" : 7,
 		"Fasts" : 14,
 		"IQs" : 19,
 		"Facebook Friends" : 11
-	],
+	},
 
 	"Skillz" : [
 		"Literacy",

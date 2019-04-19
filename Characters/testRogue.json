@@ -2,13 +2,13 @@
 	"name" : "Slippery Steve",
 	"class" : "Rogue",
 
-	"Stats" : [
+	"Stats" : {
 		"HP" : 10,
 		"Stronks" : 10,
 		"Fasts" : 18,
 		"IQs" : 14,
 		"Facebook Friends" : 18
-	],
+	},
 
 	"Skillz" : [
 		"Climbing",
